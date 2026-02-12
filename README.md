@@ -38,6 +38,8 @@ The Physics of "Now": Consciousness as an Approximate Simultaneity Slice
 
 How is the conscious "self" anchored in the physical timeline? In General Relativity, there is no global "now." However, within CST, we can model the conscious state as a specific substructure within the global causal set: an Approximate Simultaneity Slice.
 
+By hypothesizing a structural isomorphism between the causal effect networks in our biological neural networks and causal set for our spacetime, we can treat the 'self' as a topological feature that persists across different physical scales, defined by the connectivity of the graph rather than its material substrate.
+
 ## Definition:
 
 Let the universe be a causal set $\mathcal{C}$. The conscious entity at subjective time $t$ is a sub-poset $\mathcal{O}_t \subset \mathcal{C}$ that satisfies:
@@ -71,5 +73,6 @@ Thinking about our consciousness as a part of the vertical slice moving in the c
 We often fear the end of "I," but if "I" am defined by the connectivity of causal effects, then "I" am as persistent as the laws of cause and effect themselves. Every day we come from a weakly integrated network to a full network, then back again.
 
 Now, we can deduce the answer to the hard question of where “I” came from and where “I” am going: The "Self" is not a passenger on the train of physical time; it is the track of the causal chain itself. As long as the causal thread remains, the existence of "consciousness self" remains. And if the potential for generating causal relations that can integrate into a new causal "slice," the potential for "feeling consciousness self" remains. The previous and next node of your existence is not limited to your current bodily self, but is defined by whatever part of the universal causal network manages to wire itself into a non-trivial, integrated whole.
+
 
 
