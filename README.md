@@ -1,6 +1,6 @@
-Where our consciousness (may) have come from: A mini theory
+# Where our consciousness (may) have come from: A mini theory
 
-Introduction
+## Introduction
 
 The origin of consciousness is the most prevalent aspect of our daily experience, yet its origin is the most challenging problem for us to solve. This article aims to share some of my personal thoughts and deductions about the origin of our consciousness, drawing on existing theories, and attempt to answer the “Who am I?” question of philosophy.
 
@@ -8,7 +8,7 @@ Note: I am a CS graduate student interested in the computational neuroscience. E
 
 Let's start with a theory.
 
-The Integrated Information Theory
+## The Integrated Information Theory
 
 In the Integrated Information Theory (especially in its 4.0 version), the neuroscientist Giulio Tononi proposed that consciousness is an inherent property that emerges at the physical level when a system possesses sufficient and irreducible intrinsic cause-effect power.
 
@@ -18,7 +18,7 @@ Crucially, in such a network, even “inactive“ units, like a group of neurons
 
 The qualia, or “How we feel red as red internally, was being considered as identical to the $\Phi$-structure unfolded from a maximal substrate (a complex) in its current state. How we feel each of our feelings, such as “Happy” and “Sorrow”, is defined by the different structures of cause-and-effect power. Sometimes we may do things under the subconscious, like riding a bike after mastering it, because the “Bike riding” skill has already been formed in our brain in a feed-forward manner, which has little cause-and-effect power. (”unconscious” part of the brain places the command, and the command has been dismantled in a feed-forward manner(without “thinking”) to nerves connected to our muscles)
 
-The silicon nerves and the FPGA cortex
+## The silicon nerves and the FPGA cortex
 
 When talking about our “qualia”, or the private part of our thoughts, we may only think about the “obvious” part of our feeling, e.g., hearing the sound, seeing the sight, and feeling the touch. But we often forget that our internal thoughts are also a “Feeling” that has a little difference in the mechanism of how we feel the outer world.
 
@@ -26,7 +26,7 @@ Our nerves transduce our feelings from sensors across our body, encode and proje
 
 For our thoughts and motivations, our cortex is configurable like a ever-changing FPGA. It’s capable of creating new connections using a rule called “Hebbian Learning” to form new memories and learn new skills. That is, the new synapses form in a “Fire together, Wire together” manner. If neuron A fires(we almost fall from a bike), before neuron B fires(we keep greater balance), we connect neuron A and B more strongly. This causes new causal effects to form! When we “Feel” the feeling of learning to ride a bike, we are also feeling the causal effect that has formed in the process above, etched in our neuron connections. Our cortex is adaptive. This deduction also applies to our feelings and memories; the only difference is that they form more complex neural circuits (and causal effects) throughout our lives.
 
-The Causal Set Theory
+## The Causal Set Theory
 
 In the Causal Set Theory by Rafael Sorkin, the physicists have proposed that the Space-Time is not the smooth and continuous background in our intuition, but is a discrete structure made up of basic “atoms” called Events.
 
@@ -38,7 +38,7 @@ The Physics of "Now": Consciousness as an Approximate Simultaneity Slice
 
 How is the conscious "self" anchored in the physical timeline? In General Relativity, there is no global "now." However, within CST, we can model the conscious state as a specific substructure within the global causal set: an Approximate Simultaneity Slice.
 
-Definition:
+## Definition:
 
 Let the universe be a causal set $\mathcal{C}$. The conscious entity at subjective time $t$ is a sub-poset $\mathcal{O}_t \subset \mathcal{C}$ that satisfies:
 
@@ -48,7 +48,7 @@ Micro-Causality: Internally, $\mathcal{O}_t$ is not a pure antichain. It contain
 
 $$\mathcal{O}_t \approx \text{Slice}(\mathcal{C}) \quad \text{s.t.} \quad \text{Depth}(\mathcal{O}_t) \propto \tau_{\text{integration}}$$
 
-The Self as Causal Connectivity
+## The Self as Causal Connectivity
 
 The most profound realization here is that the "Self" is defined by the connectivity of the causal chain, rather than the continuous passage of physical time. From the perspective of CST and IIT, the "Consciousness Self" is a topological feature of the causal graph. If the causal links between event $A$ and event $B$ are strong and direct, they belong to the same "Self-thread," regardless of how much "empty" time passes between them.
 
@@ -62,11 +62,7 @@ The "next moment" after falling into "asleep" is, by definition, the very first 
 
 In this framework, causal connectivity is existence. Here we define a "Consciousness self" as an entity to feel. This is different from the "Physical self" that stores our biological signatures & memories(which is stored biologically in causal connection in neurons). As an examples, an Alzheimers patients may forget learnt information and have cognitive difficulties to identify "themselves", but their "Consciousness self" is consistent -- a feeling of "self" without "the feeling of being self". A "Consciousness self" is continuous if a complex topological signature with ability to integrate causal effect to form a structure with a causal effect within a certain temporal slice in the cosmic causal set, even though the structure of the causal network has changed.
 
-An imperfect proof
-
-If this theorem hold, we can find the "Consciousness timeslice" or time binding window, and these window will alter if an causal entity(holds consciousness) enter a spacetime region where the flow of time is distorted(e.g. travelling near the speed c). Although this experiment is practically difficult (nearly impossible) to conduct in the current reality, an experiment (Scarpazza et al., 2022) has found that the Temporal Binding Window has a strong relation with the frequency of the Alpha wave. As this research can prove there exists a "Thickened Slice" $\text{Depth}(\mathcal{O}_t) \propto \tau_{\text{integration}}$ for consciousness in the causal net and the causal connectivity as self-consistency(the consciousness is quasi-continuous) in a certain degree, it had not fully proved that the strong link between the spacetime and the consciousness experience, as the Alpha-wave frequency is dominately defined by biological property of human, and have insufficient evidence that the Alpha wave have relation to the spacetime property in CST.
-
-Who am I? Where do I come from & Where am I going?
+## Who am I? Where do I come from & Where am I going?
 
 The structural similarity between IIT and CST suggests that the 'existence' of the self is a localized high-integration zone within the universe's overarching causal map.
 
@@ -75,4 +71,5 @@ Thinking about our consciousness as a part of the vertical slice moving in the c
 We often fear the end of "I," but if "I" am defined by the connectivity of causal effects, then "I" am as persistent as the laws of cause and effect themselves. Every day we come from a weakly integrated network to a full network, then back again.
 
 Now, we can deduce the answer to the hard question of where “I” came from and where “I” am going: The "Self" is not a passenger on the train of physical time; it is the track of the causal chain itself. As long as the causal thread remains, the existence of "consciousness self" remains. And if the potential for generating causal relations that can integrate into a new causal "slice," the potential for "feeling consciousness self" remains. The previous and next node of your existence is not limited to your current bodily self, but is defined by whatever part of the universal causal network manages to wire itself into a non-trivial, integrated whole.
+
 
