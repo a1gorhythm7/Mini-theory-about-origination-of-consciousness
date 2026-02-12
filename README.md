@@ -2,9 +2,9 @@
 
 ## Introduction
 
-The origin of consciousness is the most prevalent aspect of our daily experience, yet its origin is the most challenging problem for us to solve. This article aims to share some of my personal thoughts and deductions about the origin of our consciousness, drawing on existing theories, and attempt to answer the “Who am I?” question of philosophy.
+The origin of consciousness is the most immediate aspect of our daily experience, yet its origin is the most challenging problem for us to solve. This article aims to share some of my personal thoughts and deductions about the origin of our consciousness, drawing on existing theories, and attempt to answer the “Who am I?” question of philosophy.
 
-Note: I am a CS graduate student interested in the computational neuroscience. English is my second language; I used Gemini to assist with expression polishing and Figure generation. Theoretical synthesis and core arguments are my own.
+Note: I am a CS graduate student interested in the computational neuroscience. English is my second language; I used Gemini to assist with expression polishing and Figure generation. Theoretical synthesis and core arguments are my own. I'm 40% confident in the specific mapping, but 90% sure that the structural similarity is worth exploring. Open to feedbacks & critiques.
 
 Let's start with a theory.
 
@@ -34,21 +34,33 @@ The core of CST is the causal order, a network that’s made of events and the c
 
 In CST, the geometry of the universe emerged from the number of causal links. The “Space” of what we feel is the volume stacked by the discrete “spacetime atoms”, while time is the inescapable logical sequence in which these atoms snap into existence. It is these atomic causal effects that make the the connectivity of consciousness across the NREM sleep and structural & pathological changes in the brain consistent.
 
-The Physics of "Now": Consciousness as an Approximate Simultaneity Slice
+### 3. The Chrono-Topology of Consciousness: From Spatial Loops to Temporal Helices
 
-How is the conscious "self" anchored in the physical timeline? In General Relativity, there is no global "now." However, within CST, we can model the conscious state as a specific substructure within the global causal set: an Approximate Simultaneity Slice.
+A fundamental challenge in bridging neuroscience and fundamental physics lies in the topological mismatch between neural architecture and spacetime geometry. Neural correlates of consciousness (NCC) heavily rely on re-entrant processing and feedback loops—topological **cycles** ($C_n$) in the spatial graph of the brain. However, according to Causal Set Theory, the universe is strictly a partial order, a **Directed Acyclic Graph (DAG)**, where causality forbids closed loops.
 
-By hypothesizing a structural isomorphism between the causal effect networks in our biological neural networks and causal set for our spacetime, we can treat the 'self' as a topological feature that persists across different physical scales, defined by the connectivity of the graph rather than its material substrate.
+How can the "loops" required for Integrated Information ($\Phi$) exist within a universe that forbids them?
 
-## Definition:
+We propose that the conscious "Self" is not a static spatial subgraph, but a **spatiotemporal unfolding** of these neural loops. What appears as a "cycle" in the spatial connectivity of the brain maps to a **"Helix" (or Spiral)** structure in the universe causal set.
 
-Let the universe be a causal set $\mathcal{C}$. The conscious entity at subjective time $t$ is a sub-poset $\mathcal{O}_t \subset \mathcal{C}$ that satisfies:
+#### Definition: The Causal Helix
 
-Macro-Simultaneity: The entire set $\mathcal{O}_t$ is compressed within a small temporal interval $\Delta t$ (the integration window, e.g., ~500ms).
+Let the biological neural network be a spatial graph $G_S = (V, E)$, containing cycles (e.g., $u \to v \to u$).
+Let the universe be a causal set (DAG) $\mathcal{C}$.
 
-Micro-Causality: Internally, $\mathcal{O}_t$ is not a pure antichain. It contains the dense causal loops required for information integration ($\Phi > 0$).
+The emergence of a conscious moment corresponds to a mapping $\mathcal{M}: G_S \times T \to \mathcal{C}$, where spatial recurrence unfolds into temporal recursion:
 
-$$\mathcal{O}_t \approx \text{Slice}(\mathcal{C}) \quad \text{s.t.} \quad \text{Depth}(\mathcal{O}_t) \propto \tau_{\text{integration}}$$
+$$\text{If } (u, v) \in E \text{ and } (v, u) \in E \text{ in } G_S,$$
+$$\text{Then } \exists \text{ events } e_{u, t}, e_{v, t+\delta}, e_{u, t+2\delta} \in \mathcal{C} \text{ such that } e_{u, t} \prec e_{v, t+\delta} \prec e_{u, t+2\delta}.$$
+
+In this framework, the "Self" is not a flat slice of simultaneous events, but a **bundle of intertwined causal helices**. The feedback loop essential for consciousness does not return to the past node, but projects to a future, self-similar node.
+
+#### The Topological Signature of "Being"
+
+Consequently, the "integration" of information ($\Phi$) is physically realized as a dense structure of **Causal Diamonds** within the DAG. A causal diamond is the set of all events causally between an initial event $A$ and a final event $B$ (Intersection of the future of $A$ and the past of $B$).
+
+* **Weak Consciousness (Low $\Phi$):** The causal graph resembles a "Tree" or simple parallel chains. Signals propagate feed-forward without converging, meaning the causal diamond is sparse or empty.
+* **Strong Consciousness (High $\Phi$):** The causal graph forms a dense, braided structure. The "re-entrant" signals create a tight weave of causal diamonds, where information from distributed sources ($A_{t1}, B_{t1}$) rapidly converges into common descendants ($C_{t2}$) and diverges again. The "Self" preserves its identity not through material permanence, but through **topological recurrency**. We are a standing wave of causality; a pattern that repeats its structure along the arrow of time, spiraling forward into the future.
+
 
 ## The Self as Causal Connectivity
 
@@ -73,6 +85,7 @@ Thinking about our consciousness as a part of the vertical slice moving in the c
 We often fear the end of "I," but if "I" am defined by the connectivity of causal effects, then "I" am as persistent as the laws of cause and effect themselves. Every day we come from a weakly integrated network to a full network, then back again.
 
 Now, we can deduce the answer to the hard question of where “I” came from and where “I” am going: The "Self" is not a passenger on the train of physical time; it is the track of the causal chain itself. As long as the causal thread remains, the existence of "consciousness self" remains. And if the potential for generating causal relations that can integrate into a new causal "slice," the potential for "feeling consciousness self" remains. The previous and next node of your existence is not limited to your current bodily self, but is defined by whatever part of the universal causal network manages to wire itself into a non-trivial, integrated whole.
+
 
 
 
